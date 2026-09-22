@@ -1,0 +1,7 @@
+D:\code\C#\thuc_hanh_01\bai6\bai6\bin\Debug\bai6.exe.config
+D:\code\C#\thuc_hanh_01\bai6\bai6\bin\Debug\bai6.exe
+D:\code\C#\thuc_hanh_01\bai6\bai6\bin\Debug\bai6.pdb
+D:\code\C#\thuc_hanh_01\bai6\bai6\obj\Debug\bai6.csproj.AssemblyReference.cache
+D:\code\C#\thuc_hanh_01\bai6\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+D:\code\C#\thuc_hanh_01\bai6\bai6\obj\Debug\bai6.exe
+D:\code\C#\thuc_hanh_01\bai6\bai6\obj\Debug\bai6.pdb
