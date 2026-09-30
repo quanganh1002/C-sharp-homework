@@ -1,0 +1,7 @@
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\bin\Debug\lab2.exe.config
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\bin\Debug\lab2.exe
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\bin\Debug\lab2.pdb
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\obj\Debug\lab2.exe
+D:\code\C#\thuc_hanh\thuc _hanh_02\lab2\lab2\obj\Debug\lab2.pdb
